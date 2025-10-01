@@ -20,3 +20,11 @@ For me, front-end development isn’t just about writing code — it’s about d
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/>
 </p>
+
+---
+
+### 🛠 Tools & Version Control  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
+</p>
