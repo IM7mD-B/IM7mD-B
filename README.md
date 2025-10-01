@@ -19,5 +19,4 @@ For me, front-end development isn’t just about writing code — it’s about d
 ### 🎨 UI/UX & Design Tools  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-plain.svg" alt="illustrator" width="60" height="60"/>
 </p>
