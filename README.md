@@ -26,8 +26,10 @@ For me, front-end development isn’t just about writing code — it’s about d
 
 ---
 
-### 🛠 Tools & Version Control  
+### 🛠 Tools, APIs & Workflow
 <p align="left">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="clickup" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
 </p>
